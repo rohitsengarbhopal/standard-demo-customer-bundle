@@ -1,5 +1,5 @@
 name: sd-customer
-image: 'docker.io/rohitsengar/sd-customer:0.0.12'
+image: 'docker.io/rohitsengar/sd-customer:0.0.14'
 dbms: none
 healthCheckPath: /management/health
 ingressPath: /customer
